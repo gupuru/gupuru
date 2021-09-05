@@ -1,8 +1,11 @@
 ### Hi there 👋 I'm Kohei 😄
 
-I'm Android/iOS/Web developer.
 
-I was a former Android/iOS/Web developer of a social trekking GPS app with more than a million downloads in Japan. He is also primarily involved with local engineering communities in Fukuoka.
+I'm a freelance software engineer.
+Mainly good at Android/iOS/Web.
+
+Currently, I am manager of software development for a company that used clothing.
+My work ranges from front-end to server and also includes project management.
 
 |key|value|
 |---|-----|
